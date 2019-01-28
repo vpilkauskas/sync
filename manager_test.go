@@ -2,8 +2,9 @@ package sync
 
 import (
 	"testing"
-	"github.com/stretchr/testify/assert"
 	"time"
+
+	"github.com/stretchr/testify/assert"
 )
 
 func TestManager_Set(t *testing.T) {
